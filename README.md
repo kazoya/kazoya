@@ -1,4 +1,3 @@
-<!-- Draft for github.com/kazoya/kazoya/README.md (repo kazoya/kazoya does not exist yet: create it public, same name as username) -->
 # صهيب الصالح — Suhib Al-Saleh
 **Solutions Architect · AI Agents · Arabic RTL web** — مهندس حلول، وكلاء ذكاء اصطناعي، ومواقع عربية
 
